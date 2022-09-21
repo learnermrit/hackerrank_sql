@@ -1,1 +1,1 @@
-# Hackerrank_sql
+# Hackerrank_sql.
